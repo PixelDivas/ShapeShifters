@@ -8,5 +8,6 @@ public class MyContext : DbContext
     public MyContext(DbContextOptions options) : base(options) { }    
 
    //replace classname with name of model file
-    public DbSet<ClassName> ClassNames { get; set; } 
+    
+    public DbSet<User> Users { get; set; }
 }
