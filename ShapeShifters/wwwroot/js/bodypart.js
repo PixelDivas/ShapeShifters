@@ -56,11 +56,7 @@ function ViewOneExercise(event) {
                         window.location.href = `/exercises/${bodyPart}/${button.id}`; // Replace with the path you want to redirect to
                     }
                     redirectToPath()
-                    // button.addEventListener('click', function(){
-                    //     var path = event.view.location.pathname
-                    //     console.log(path)
-                    //     // event.view.location.pathname = `exercises/${bodyPart}/${exercise.id}`
-                    // })
+                    
                 }
             })
         })
