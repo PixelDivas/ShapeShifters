@@ -18384,6 +18384,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/Views/User/_login.cshtml",
+      "TargetPath": "Views\\User\\_login.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/Views/_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
@@ -18409,6 +18414,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/Views/User/_Register.cshtml",
+      "TargetPath": "Views\\User\\_Register.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/Views/Home/Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
@@ -18421,6 +18431,11 @@
     {
       "FilePath": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/Views/Exercise/ExerciseByBodyPart.cshtml",
       "TargetPath": "Views\\Exercise\\ExerciseByBodyPart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/Views/User/index.cshtml",
+      "TargetPath": "Views\\User\\index.cshtml",
       "FileKind": "mvc"
     }
   ],
