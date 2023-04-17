@@ -1,0 +1,37 @@
+
+
+@model User
+
+<div class="column">
+    <h3>Register here</h3><br>
+
+    <form action="/register" method="post">
+        <section>
+            <label asp-for="UserName"> Username</label>
+            <input type="text" name="UserName">
+            <span asp-validation-for="UserName"></span>
+        </section><br>
+
+        <section>
+            <label for="Email">Email</label>
+            <input type="email" name="Email" id="">
+            <span asp-validation-for="Email"></span>
+        </section><br>
+        <section>
+            <label for="Password">Password</label>
+            <input asp-for="Password">
+            <span asp-validation-for="Password"></span>
+        </section><br>
+        <section>
+            <label for="Confirm">Confirm Password</label>
+            <input type="password" name="Confirm" id="">
+            <span asp-validation-for="Confirm"></span>
+        </section><br>
+        <button style="background-color: yellow;">Register </button>
+       
+    </form>
+
+
+
+
+</div>
