@@ -2,6 +2,7 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using ShapeShifters.Models;
 
@@ -10,9 +11,10 @@ using ShapeShifters.Models;
 namespace ShapeShifters.Migrations
 {
     [DbContext(typeof(MyContext))]
-    partial class MyContextModelSnapshot : ModelSnapshot
+    [Migration("20230418000938_SecondMirgation")]
+    partial class SecondMirgation
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -48,32 +50,6 @@ namespace ShapeShifters.Migrations
                     b.HasIndex("UserId");
 
                     b.ToTable("Comments");
-                });
-
-            modelBuilder.Entity("ShapeShifters.Models.Image", b =>
-                {
-                    b.Property<int>("ImageId")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    b.Property<DateTime>("CreatedAt")
-                        .HasColumnType("datetime(6)");
-
-                    b.Property<int>("PostId")
-                        .HasColumnType("int");
-
-                    b.Property<DateTime>("UpdatedAt")
-                        .HasColumnType("datetime(6)");
-
-                    b.Property<string>("imgUrl")
-                        .IsRequired()
-                        .HasColumnType("longtext");
-
-                    b.HasKey("ImageId");
-
-                    b.HasIndex("PostId");
-
-                    b.ToTable("Images");
                 });
 
             modelBuilder.Entity("ShapeShifters.Models.Post", b =>
@@ -154,17 +130,6 @@ namespace ShapeShifters.Migrations
                     b.Navigation("OriginalPost");
                 });
 
-            modelBuilder.Entity("ShapeShifters.Models.Image", b =>
-                {
-                    b.HasOne("ShapeShifters.Models.Post", "OwnerPost")
-                        .WithMany("ImageList")
-                        .HasForeignKey("PostId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("OwnerPost");
-                });
-
             modelBuilder.Entity("ShapeShifters.Models.Post", b =>
                 {
                     b.HasOne("ShapeShifters.Models.User", "MessageAuthor")
@@ -179,8 +144,6 @@ namespace ShapeShifters.Migrations
             modelBuilder.Entity("ShapeShifters.Models.Post", b =>
                 {
                     b.Navigation("CommentList");
-
-                    b.Navigation("ImageList");
                 });
 #pragma warning restore 612, 618
         }

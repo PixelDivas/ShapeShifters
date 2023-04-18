@@ -781,19 +781,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/wosassociate/.nuget/packages/": {}
+    "C:\\Users\\lsnow\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/ShapeShifters.csproj",
+      "projectUniqueName": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\ShapeShifters.csproj",
       "projectName": "ShapeShifters",
-      "projectPath": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/ShapeShifters.csproj",
-      "packagesPath": "/Users/wosassociate/.nuget/packages/",
-      "outputPath": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/obj/",
+      "projectPath": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\ShapeShifters.csproj",
+      "packagesPath": "C:\\Users\\lsnow\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/wosassociate/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\lsnow\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -847,7 +847,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.407/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
       }
     }
   }
