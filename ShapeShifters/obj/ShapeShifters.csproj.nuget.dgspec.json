@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lsnow\\OneDrive\\Desktop\\ShapeShifters\\ShapeShifters\\ShapeShifters.csproj": {}
+    "C:\\Users\\mufos\\OneDrive\\Desktop\\ShapeShifters\\ShapeShifters\\ShapeShifters.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lsnow\\OneDrive\\Desktop\\ShapeShifters\\ShapeShifters\\ShapeShifters.csproj": {
+    "C:\\Users\\mufos\\OneDrive\\Desktop\\ShapeShifters\\ShapeShifters\\ShapeShifters.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lsnow\\OneDrive\\Desktop\\ShapeShifters\\ShapeShifters\\ShapeShifters.csproj",
+        "projectUniqueName": "C:\\Users\\mufos\\OneDrive\\Desktop\\ShapeShifters\\ShapeShifters\\ShapeShifters.csproj",
         "projectName": "ShapeShifters",
-        "projectPath": "C:\\Users\\lsnow\\OneDrive\\Desktop\\ShapeShifters\\ShapeShifters\\ShapeShifters.csproj",
-        "packagesPath": "C:\\Users\\lsnow\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lsnow\\OneDrive\\Desktop\\ShapeShifters\\ShapeShifters\\obj\\",
+        "projectPath": "C:\\Users\\mufos\\OneDrive\\Desktop\\ShapeShifters\\ShapeShifters\\ShapeShifters.csproj",
+        "packagesPath": "C:\\Users\\mufos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mufos\\OneDrive\\Desktop\\ShapeShifters\\ShapeShifters\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lsnow\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\mufos\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -39,6 +39,8 @@
           "targetAlias": "net6.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.3, )"
             },
@@ -66,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }
