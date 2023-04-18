@@ -39,8 +39,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFxBbGwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/lsnow/Desktop/ShapeShifters/ShapeShifters/Views/Post/AllFiles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFxBbGxGaWxlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/lsnow/Desktop/ShapeShifters/ShapeShifters/Views/Post/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lsnow/Desktop/ShapeShifters/ShapeShifters/Views/Post/File.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFxGaWxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/lsnow/Desktop/ShapeShifters/ShapeShifters/Views/Post/New.cshtml]

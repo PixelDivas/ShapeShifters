@@ -1,7 +1,7 @@
 @model Post
 
 <div class="container text-center mt-5">
-    <h1 class="display-3 mb-5">Share your progress!</h1>
+    <h1 class="display-3 mb-5">Edit your post!</h1>
     <form asp-action="Update" asp-controller="Post" method="POST" asp-route-postId="@Model.PostId" class="row justify-content-center fs-5">
         <div class="mb-3 col-md-4">
             <label asp-for="Title" class="form-label">Title:</label>

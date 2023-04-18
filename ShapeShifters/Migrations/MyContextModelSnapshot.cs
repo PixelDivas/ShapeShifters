@@ -50,14 +50,26 @@ namespace ShapeShifters.Migrations
                     b.ToTable("Comments");
                 });
 
-            modelBuilder.Entity("ShapeShifters.Models.Image", b =>
+            modelBuilder.Entity("ShapeShifters.Models.FileUpload", b =>
                 {
-                    b.Property<int>("ImageId")
+                    b.Property<int>("FileId")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
                     b.Property<DateTime>("CreatedAt")
                         .HasColumnType("datetime(6)");
+
+                    b.Property<byte[]>("FileData")
+                        .IsRequired()
+                        .HasColumnType("longblob");
+
+                    b.Property<string>("FileName")
+                        .IsRequired()
+                        .HasColumnType("longtext");
+
+                    b.Property<string>("FileType")
+                        .IsRequired()
+                        .HasColumnType("longtext");
 
                     b.Property<int>("PostId")
                         .HasColumnType("int");
@@ -65,15 +77,11 @@ namespace ShapeShifters.Migrations
                     b.Property<DateTime>("UpdatedAt")
                         .HasColumnType("datetime(6)");
 
-                    b.Property<string>("imgUrl")
-                        .IsRequired()
-                        .HasColumnType("longtext");
-
-                    b.HasKey("ImageId");
+                    b.HasKey("FileId");
 
                     b.HasIndex("PostId");
 
-                    b.ToTable("Images");
+                    b.ToTable("FileUploads");
                 });
 
             modelBuilder.Entity("ShapeShifters.Models.Post", b =>
@@ -154,10 +162,10 @@ namespace ShapeShifters.Migrations
                     b.Navigation("OriginalPost");
                 });
 
-            modelBuilder.Entity("ShapeShifters.Models.Image", b =>
+            modelBuilder.Entity("ShapeShifters.Models.FileUpload", b =>
                 {
                     b.HasOne("ShapeShifters.Models.Post", "OwnerPost")
-                        .WithMany("ImageList")
+                        .WithMany("FileUploadList")
                         .HasForeignKey("PostId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -168,7 +176,7 @@ namespace ShapeShifters.Migrations
             modelBuilder.Entity("ShapeShifters.Models.Post", b =>
                 {
                     b.HasOne("ShapeShifters.Models.User", "MessageAuthor")
-                        .WithMany()
+                        .WithMany("UserPosts")
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -180,7 +188,12 @@ namespace ShapeShifters.Migrations
                 {
                     b.Navigation("CommentList");
 
-                    b.Navigation("ImageList");
+                    b.Navigation("FileUploadList");
+                });
+
+            modelBuilder.Entity("ShapeShifters.Models.User", b =>
+                {
+                    b.Navigation("UserPosts");
                 });
 #pragma warning restore 612, 618
         }

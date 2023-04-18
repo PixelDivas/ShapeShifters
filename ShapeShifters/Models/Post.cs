@@ -18,9 +18,7 @@ public class Post {
 
     //! 1 post can have many comments.
     public List<Comment> CommentList {get;set;}= new List<Comment> ();
-
-    //one-to-many relationship to images
-    public List<Image> ImageList { get; set; } = new List<Image>();
+    public List<FileUpload> FileUploadList {get;set;}= new List<FileUpload> ();
 
     public DateTime CreatedAt { get; set; } = DateTime.Now;
     public DateTime UpdatedAt { get; set; } = DateTime.Now;
