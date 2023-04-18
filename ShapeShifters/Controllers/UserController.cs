@@ -22,11 +22,22 @@ public class UserController : Controller
     public IActionResult Index() {
         if(HttpContext.Session.GetInt32("uid") != null) 
         {
-            return RedirectToAction("ExerciseList");
+            return RedirectToAction("ExerciseList", "exercises");
         } else {
             return View("Index");
         }
     }
+
+      [HttpGet("/login")]
+    public IActionResult Login() {
+        if(HttpContext.Session.GetInt32("uid") != null) 
+        {
+            return RedirectToAction("ExerciseList", "exercises");
+        } else {
+            return View("Login");
+        }
+    }
+
 
    
     [HttpPost("/register")]
@@ -47,7 +58,7 @@ public class UserController : Controller
          
             HttpContext.Session.SetInt32("uid", newUser.UserId);
             HttpContext.Session.SetString("name", newUser.UserName );
-            return RedirectToAction("ExerciseList");
+            return RedirectToAction("ExerciseList", "exercises");
         }
     }
 
@@ -55,7 +66,7 @@ public class UserController : Controller
     [HttpPost("/login")]
     public IActionResult Login(LoginUser getUser) {
         if(!ModelState.IsValid) {
-            return View("Index");} 
+            return View("Login");} 
 
         else
         {
@@ -67,7 +78,7 @@ public class UserController : Controller
                 
 
                 ModelState.AddModelError("LoginEmail", "Invalid Email");
-                return View("Index");
+                return View("Login");
 
             } 
             
@@ -80,12 +91,12 @@ public class UserController : Controller
                 if(result == 0)  
                 { 
                     ModelState.AddModelError("LoginPassword", "Invalid Password");
-                    return View("Index");}
+                    return View("Login");}
                  else 
                 {
                     HttpContext.Session.SetInt32("uid", userInDb.UserId);
                     HttpContext.Session.SetString("name", userInDb.UserName );
-                    return RedirectToAction("ExerciseList");
+                    return RedirectToAction("ExerciseList", "exercises");
                 }
             }   
         }
