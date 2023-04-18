@@ -1,4 +1,4 @@
-
+@model User
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,22 +7,51 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ShapeShifters</title>
 </head>
-<body>
+<body class="bodylogin">
     <header>
-      <div class="text-center">
-      <h1>Welcome to ShapeShifters Website!!!!!</h1>
-      </div>
-      <div class="bar"></div><br>
-   
+      <h1 class="text-center">Your body’s Shape with Us </h1>
     </header>
-    <div class="front">
-     <h2 class="display-4">Get Started!!!!!</h2> <br>  
-    @* ici, J'apple mes 2 partial qui contienne mes form *@
-    <main class="twoform">
-        @await Html.PartialAsync("_Register")
-        @await Html.PartialAsync("_login")
+  
+   
+   
+    <main>
+        <div class="loginBox"> 
+    <img class="user" src="https://i.ibb.co/yVGxFPR/2.png" height="100px" width="100px">
+    <h3>Sign Up Here</h3>
+    <form action="/register" method="post">
+        
+
+        
+        <div class="inputBox"> 
+            <input type="text" name="UserName" placeholder="Username" id=""> 
+            <span asp-validation-for="UserName"></span>
+        
+        </div>
+
+        <div class="inputBox"> 
+            <input type="text" name="Email" placeholder="Email" id=""> 
+            <span asp-validation-for="Email"></span>
+        
+        </div>
+
+        <div class="inputBox"> 
+            <input type="password" name="Password" placeholder="Password" id=""> 
+              <span asp-validation-for="Password">  </span>
+         </div>
+
+        <div class="inputBox"> 
+            <input type="password" name="confirm" placeholder="Confirm Password" id="" > 
+            <span asp-validation-for="Confirm"></span>
+        </div> 
+        <input type="submit" name="Signup" value="Sign-up">
+        
+    </form> 
+    <a href="/login">Sign-in</a>
+</div>
     </main>
-    </div>
+        
+   
+   
 
 </body>
 </html>
