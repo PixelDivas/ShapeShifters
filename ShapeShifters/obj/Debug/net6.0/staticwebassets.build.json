@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mY4r2HLk/m/TD1fwhzxsLnOxKqyfxfiqCJ1x9W+WNdM=",
+  "Hash": "qdvy21Wb4WOQeG3zO4We29xyh7iReLubOGvB+P6QwnY=",
   "Source": "ShapeShifters",
   "BasePath": "_content/ShapeShifters",
   "Mode": "Default",
@@ -66,6 +66,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\mufos\\OneDrive\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\css\\styles.css",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mufos\\OneDrive\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+      "BasePath": "_content/ShapeShifters",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
     },
     {
       "Identity": "C:\\Users\\mufos\\OneDrive\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\favicon.ico",
