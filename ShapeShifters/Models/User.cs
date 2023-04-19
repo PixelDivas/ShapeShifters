@@ -25,6 +25,7 @@ public class User {
     [Compare("Password", ErrorMessage="Dang it passwords don't match try your luck again")]
     public string Confirm {get; set;}
     
+    public List<Post> UserPosts { get; set; } = new List<Post>();
     public DateTime CreatedAt { get; set; } = DateTime.Now;
     public DateTime UpdatedAt { get; set; } = DateTime.Now; 
 
