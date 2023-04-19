@@ -46,6 +46,7 @@ function ViewOneExercise(event) {
         .then(response => response.json())
         .then(data => {
             const exerciseData = data;
+            
             exerciseData.forEach(exercise => {
                 if (exercise.name == exerciseName) {
                     event.target.id = exercise.id
@@ -55,9 +56,13 @@ function ViewOneExercise(event) {
                     function redirectToPath() {
                         window.location.href = `/exercises/${bodyPart}/${button.id}`; // Replace with the path you want to redirect to
                     }
+                    console.log(exerciseName)
                     redirectToPath()
+                    return exerciseName
+                    console.log('name element')
                     
                 }
             })
         })
+
 }

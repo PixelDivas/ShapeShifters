@@ -18379,7 +18379,16 @@
       "FileKind": "mvc"
     },
     {
+<<<<<<< HEAD
+      "FilePath": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/Views/User/_login.cshtml",
+      "TargetPath": "Views\\User\\_login.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/Views/_ViewImports.cshtml",
+=======
       "FilePath": "c:\\Users\\mufos\\OneDrive\\Desktop\\ShapeShifters\\ShapeShifters\\Views\\_ViewImports.cshtml",
+>>>>>>> 050cc984e6b0816831d5e79959ccd9790ca3533b
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
@@ -18394,7 +18403,16 @@
       "FileKind": "mvc"
     },
     {
+<<<<<<< HEAD
+      "FilePath": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/Views/User/_Register.cshtml",
+      "TargetPath": "Views\\User\\_Register.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/Views/Home/Privacy.cshtml",
+=======
       "FilePath": "c:\\Users\\mufos\\OneDrive\\Desktop\\ShapeShifters\\ShapeShifters\\Views\\Home\\Privacy.cshtml",
+>>>>>>> 050cc984e6b0816831d5e79959ccd9790ca3533b
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
@@ -18430,6 +18448,11 @@
     },
     {
       "FilePath": "c:\\Users\\mufos\\OneDrive\\Desktop\\ShapeShifters\\ShapeShifters\\Views\\User\\index.cshtml",
+      "TargetPath": "Views\\User\\index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/Views/User/index.cshtml",
       "TargetPath": "Views\\User\\index.cshtml",
       "FileKind": "mvc"
     }

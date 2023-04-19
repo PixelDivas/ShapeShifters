@@ -43,8 +43,25 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+<<<<<<< HEAD
+[/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/Views/User/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9pbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/Views/User/_login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9fbG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/Views/User/_Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9fUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+=======
 [c:/Users/mufos/OneDrive/Desktop/ShapeShifters/ShapeShifters/Views/User/index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxpbmRleC5jc2h0bWw=
+>>>>>>> 050cc984e6b0816831d5e79959ccd9790ca3533b
 build_metadata.AdditionalFiles.CssScope = 
 
 [c:/Users/mufos/OneDrive/Desktop/ShapeShifters/ShapeShifters/Views/User/login.cshtml]
