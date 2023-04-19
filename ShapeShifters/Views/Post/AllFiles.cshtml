@@ -1,5 +1,0 @@
-@model List<FileUpload>
-@foreach (var file in Model)
-{
-    <img src="data:@file.FileType;base64,@Convert.ToBase64String(file.FileData)" alt="@file.FileName">
-}

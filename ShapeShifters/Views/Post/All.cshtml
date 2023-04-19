@@ -3,8 +3,8 @@
 <h1 class="display-4">Check out everyones progress!</h1>
 <p class="fs-5 mb-5">Click <a href="/posts/new">here</a> to create a post</p>
 <div class="d-flex flex-wrap">
-   @foreach (var post in Model)
-   {
+    @foreach (var post in Model)
+    {
         <div class="card col-sm-12 col-md-6 col-lg-4 me-3 mb-3">
             <div id="carousel_@post.PostId" class="carousel" data-bs-interval="false">
                 <div class="carousel-inner">  
@@ -37,7 +37,51 @@
             <div class="card-body">
                 <h5 class="card-title">@post.Title</h5>
                 <p class="card-text">@post.PostContent</p>
-                <a href="#!" class="btn btn-primary">Comments</a>
+                @* <a href="#!" class="btn btn-primary">Comments</a> *@
+                                @* modal trigger *@
+                <button type="button" class="btn btn-secondary d-flex" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chat-heart-fill" viewBox="0 0 16 16">
+                        <path d="M8 15c4.418 0 8-3.134 8-7s-3.582-7-8-7-8 3.134-8 7c0 1.76.743 3.37 1.97 4.6-.097 1.016-.417 2.13-.771 2.966-.079.186.074.394.273.362 2.256-.37 3.597-.938 4.18-1.234A9.06 9.06 0 0 0 8 15Zm0-9.007c1.664-1.711 5.825 1.283 0 5.132-5.825-3.85-1.664-6.843 0-5.132Z"/>
+                    </svg>
+                </button>
+
+                @*  Modal *@
+                <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="exampleModalLabel">Comments:</h5>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                            <div class="row d-flex justify-content-center">
+                            <div class="col-12">
+                                <div class="card shadow-0 border" style="background-color: #f0f2f5;">
+                                <div class="card-body p-4">
+                                    <div class="form-outline mb-4">
+                                        <input type="text" id="addANote" class="form-control" placeholder="Add a comment..." />
+                                        <button class="btn btn-primary btn-sm mt-2 rounded-pill">Comment</button>
+                                    </div>
+
+                                    <div class="card mb-4">
+                                    <div class="card-body">
+                                        <p>Comment examples blah blah!</p>
+
+                                        <div class="d-flex justify-content-between">
+                                        <div class="d-flex flex-row align-items-center">
+                                            <p class="small mb-0 ms-2">Some User</p>
+                                        </div>
+                                        </div>
+                                    </div>
+                                    </div>   
+                                </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    </div>
+                </div>
+                </div>
                 @{
                     if(post.UserId == Context.Session.GetInt32("uid")){
                         <div class="float-end">
@@ -48,5 +92,5 @@
                 }
             </div>
         </div>
-   }
+    }
 </div>

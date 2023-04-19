@@ -107,10 +107,4 @@ public class PostController : Controller
     }
     return File(postId);
     }
-
-    [HttpGet("/all/files")]
-    public IActionResult AllFiles(){
-        List<FileUpload> allFiles = db.FileUploads.ToList();
-        return View("AllFiles", allFiles);
-    }
 }                  
