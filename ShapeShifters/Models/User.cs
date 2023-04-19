@@ -18,9 +18,9 @@ public class User {
     public string Email {get; set;}
     
     [Required(ErrorMessage="Password must be at least 8 characters")]
-    [DataType(DataType.Password)] // auto fills input type of password (specifically when using asp) (c'est se qui fait en sorte que tu visualises des ecriture cacher quand tu tappe ton mot de passe)
+    [DataType(DataType.Password)] // auto fills input type of password (specifically when using asp)
     public string Password {get; set;}
-
+    
     [NotMapped] // please don't add me to the database, this one too is made to not save the confirm password in the database
     [Compare("Password", ErrorMessage="Dang it passwords don't match try your luck again")]
     public string Confirm {get; set;}
