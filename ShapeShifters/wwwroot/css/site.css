@@ -151,6 +151,6 @@ p {
   display: flex;
   font-size: larger;
 }
-.entete1 {
+.entete1 { margin-top: 25px;
   background-color: bisque;
 }
