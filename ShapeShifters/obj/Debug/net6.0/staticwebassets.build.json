@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9EwCltRX8UBxrxNqN5/iJdrJW9VHM0dOmnxy0dMpv6A=",
+  "Hash": "X9gEGHpiNOLLz5B+21h7ZbFOPkLlLk3wU/uJeJXlbuc=",
   "Source": "ShapeShifters",
   "BasePath": "_content/ShapeShifters",
   "Mode": "Default",
@@ -100,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/js/bodypart.js"
+    },
+    {
+      "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/js/exercise.js",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+      "BasePath": "_content/ShapeShifters",
+      "RelativePath": "js/exercise.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/exercise.js"
     },
     {
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/js/javascript.md",
