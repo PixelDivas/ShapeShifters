@@ -2,6 +2,7 @@
   "format": 1,
   "restore": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "C:\\Users\\lsnow\\OneDrive\\Desktop\\ShapeShifters\\ShapeShifters\\ShapeShifters.csproj": {}
 =======
 <<<<<<< HEAD
@@ -20,6 +21,8 @@
         "configFilePaths": [
           "C:\\Users\\lsnow\\AppData\\Roaming\\NuGet\\NuGet.Config"
 =======
+=======
+>>>>>>> e84903d6127c4ab0475801d8067bde9192203319
     "C:\\Users\\mufos\\OneDrive\\Desktop\\ShapeShifters\\ShapeShifters\\ShapeShifters.csproj": {}
 >>>>>>> d73ce781801d8d932061f6e5eaa7210c3a1d6076
   },
@@ -38,8 +41,11 @@
           "C:\\Users\\lsnow\\AppData\\Roaming\\NuGet\\NuGet.Config"
 =======
           "C:\\Users\\mufos\\AppData\\Roaming\\NuGet\\NuGet.Config"
+<<<<<<< HEAD
 >>>>>>> 4917e4010a7b900deff38117548d2b0800f7a938
 >>>>>>> d73ce781801d8d932061f6e5eaa7210c3a1d6076
+=======
+>>>>>>> e84903d6127c4ab0475801d8067bde9192203319
         ],
         "originalTargetFrameworks": [
           "net6.0"

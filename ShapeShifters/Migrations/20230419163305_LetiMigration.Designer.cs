@@ -11,8 +11,8 @@ using ShapeShifters.Models;
 namespace ShapeShifters.Migrations
 {
     [DbContext(typeof(MyContext))]
-    [Migration("20230418162938_FirstMigration")]
-    partial class FirstMigration
+    [Migration("20230419163305_LetiMigration")]
+    partial class LetiMigration
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

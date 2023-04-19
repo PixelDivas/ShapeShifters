@@ -1,6 +1,7 @@
 {
   "version": 2,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "dgSpecHash": "gcKdYXJ6Ljh0yuPPoWe5B3OrzBZZifIHQm0n0+yajrCMsI0UrKvSg77psjd7h7+bVK3DqFyelgTu6x2gF70KeA==",
 =======
 <<<<<<< HEAD
@@ -29,6 +30,8 @@
     "C:\\Users\\lsnow\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\lsnow\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
 =======
+=======
+>>>>>>> e84903d6127c4ab0475801d8067bde9192203319
   "dgSpecHash": "qONaIIaLgVPi6zwpQOcByRpNmJrR+4cthdMDftZk4DUGJyA/TBUTMSrBcD2KuDqWBkpFS6J7QWUZYqU/YIfIww==",
 >>>>>>> d73ce781801d8d932061f6e5eaa7210c3a1d6076
   "success": true,
@@ -76,8 +79,11 @@
     "C:\\Users\\mufos\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\mufos\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\mufos\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+<<<<<<< HEAD
 >>>>>>> 4917e4010a7b900deff38117548d2b0800f7a938
 >>>>>>> d73ce781801d8d932061f6e5eaa7210c3a1d6076
+=======
+>>>>>>> e84903d6127c4ab0475801d8067bde9192203319
   ],
   "logs": []
 }
