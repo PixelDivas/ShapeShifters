@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace ShapeShifters.Migrations
 {
-    public partial class FirstMigration : Migration
+    public partial class LetiMigration : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
