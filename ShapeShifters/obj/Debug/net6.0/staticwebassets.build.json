@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "qdvy21Wb4WOQeG3zO4We29xyh7iReLubOGvB+P6QwnY=",
+=======
+  "Hash": "X9gEGHpiNOLLz5B+21h7ZbFOPkLlLk3wU/uJeJXlbuc=",
+>>>>>>> e7b72a19fe76631ca85e0d0b882d03b9354a7811
   "Source": "ShapeShifters",
   "BasePath": "_content/ShapeShifters",
   "Mode": "Default",
@@ -119,7 +123,28 @@
       "OriginalItemSpec": "wwwroot\\js\\bodypart.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\mufos\\OneDrive\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\js\\javascript.md",
+=======
+      "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/js/exercise.js",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+      "BasePath": "_content/ShapeShifters",
+      "RelativePath": "js/exercise.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/exercise.js"
+    },
+    {
+      "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/js/javascript.md",
+>>>>>>> e7b72a19fe76631ca85e0d0b882d03b9354a7811
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mufos\\OneDrive\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
