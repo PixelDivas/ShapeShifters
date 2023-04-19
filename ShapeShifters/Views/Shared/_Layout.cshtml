@@ -6,9 +6,35 @@
     <title>@ViewData["Title"] - ShapeShifters</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+   
     <link rel="stylesheet" href="~/ShapeShifters.styles.css" asp-append-version="true" />
 </head>
 <body>
+    
+    <header>
+        @if(Context.Session.GetInt32("uid") != null) {
+
+        
+        <div class="entete1">
+             <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg; border-bottom box-shadow mb-3">
+                <div class="container-fluid">
+                   <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">ShapeShifters</a>
+                      <div class="entete2">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                            <a href="/about" class="nav-link text-dark">About</a>
+                             <a href="/posts/all"class="nav-link text-dark" > Posts</a>
+                            <a href="/exercises"class="nav-link text-dark" >Exercices</a>
+                            <a href="/contactus"class="nav-link text-dark" >Contact Us</a>
+                            <div class="d-flex justify-content-end">
+                              <button type="button" class="btn btn-outline-dark"> <a href="/logout">Logout</a> </button>
+                            </div>
+                            
+                        </div>
+                </div>
+             </nav>
+        </div>
+        }
+    </header>
     
     <div class="container">
         <main role="main" class="pb-3">
@@ -16,7 +42,10 @@
         </main>
     </div>
 
+<<<<<<< HEAD
     
+=======
+>>>>>>> 5135efb0f4b53e96dc528d9b19e74608ae5c953b
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
