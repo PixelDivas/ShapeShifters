@@ -5,12 +5,36 @@
     <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
     <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
     <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\lsnow\.nuget\packages\</NuGetPackageFolders>
+=======
+<<<<<<< HEAD
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\lsnow\.nuget\packages\</NuGetPackageFolders>
+=======
     <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\mufos\.nuget\packages\</NuGetPackageFolders>
+>>>>>>> 4917e4010a7b900deff38117548d2b0800f7a938
+>>>>>>> d73ce781801d8d932061f6e5eaa7210c3a1d6076
+=======
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\mufos\.nuget\packages\</NuGetPackageFolders>
+>>>>>>> e84903d6127c4ab0475801d8067bde9192203319
     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
-    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.3.2</NuGetToolVersion>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.3.1</NuGetToolVersion>
   </PropertyGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <SourceRoot Include="C:\Users\lsnow\.nuget\packages\" />
+=======
+<<<<<<< HEAD
+    <SourceRoot Include="C:\Users\lsnow\.nuget\packages\" />
+=======
     <SourceRoot Include="C:\Users\mufos\.nuget\packages\" />
+>>>>>>> 4917e4010a7b900deff38117548d2b0800f7a938
+>>>>>>> d73ce781801d8d932061f6e5eaa7210c3a1d6076
+=======
+    <SourceRoot Include="C:\Users\mufos\.nuget\packages\" />
+>>>>>>> e84903d6127c4ab0475801d8067bde9192203319
   </ItemGroup>
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore.design\6.0.3\build\net6.0\Microsoft.EntityFrameworkCore.Design.props" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore.design\6.0.3\build\net6.0\Microsoft.EntityFrameworkCore.Design.props')" />

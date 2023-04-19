@@ -5,7 +5,7 @@
       "Humanizer.Core/2.8.26": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/_._": {
+          "lib/netstandard2.0/Humanizer.dll": {
             "related": ".xml"
           }
         },
@@ -66,7 +66,7 @@
           "Microsoft.EntityFrameworkCore.Relational": "6.0.3"
         },
         "compile": {
-          "lib/net6.0/_._": {
+          "lib/net6.0/Microsoft.EntityFrameworkCore.Design.dll": {
             "related": ".xml"
           }
         },
@@ -781,19 +781,56 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
+<<<<<<< HEAD
+    "C:\\Users\\lsnow\\.nuget\\packages\\": {}
+=======
+<<<<<<< HEAD
+    "C:\\Users\\lsnow\\.nuget\\packages\\": {}
+=======
     "C:\\Users\\mufos\\.nuget\\packages\\": {}
+>>>>>>> 4917e4010a7b900deff38117548d2b0800f7a938
+>>>>>>> d73ce781801d8d932061f6e5eaa7210c3a1d6076
+=======
+    "C:\\Users\\mufos\\.nuget\\packages\\": {}
+>>>>>>> e84903d6127c4ab0475801d8067bde9192203319
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mufos\\OneDrive\\Desktop\\ShapeShifters\\ShapeShifters\\ShapeShifters.csproj",
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "projectUniqueName": "C:\\Users\\lsnow\\OneDrive\\Desktop\\ShapeShifters\\ShapeShifters\\ShapeShifters.csproj",
+=======
+<<<<<<< HEAD
+      "projectUniqueName": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\ShapeShifters.csproj",
       "projectName": "ShapeShifters",
-      "projectPath": "C:\\Users\\mufos\\OneDrive\\Desktop\\ShapeShifters\\ShapeShifters\\ShapeShifters.csproj",
-      "packagesPath": "C:\\Users\\mufos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mufos\\OneDrive\\Desktop\\ShapeShifters\\ShapeShifters\\obj\\",
+      "projectPath": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\ShapeShifters.csproj",
+      "packagesPath": "C:\\Users\\lsnow\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
+        "C:\\Users\\lsnow\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+=======
+>>>>>>> e84903d6127c4ab0475801d8067bde9192203319
+      "projectUniqueName": "C:\\Users\\mufos\\OneDrive\\Desktop\\ShapeShifters\\ShapeShifters\\ShapeShifters.csproj",
+>>>>>>> d73ce781801d8d932061f6e5eaa7210c3a1d6076
+      "projectName": "ShapeShifters",
+      "projectPath": "C:\\Users\\lsnow\\OneDrive\\Desktop\\ShapeShifters\\ShapeShifters\\ShapeShifters.csproj",
+      "packagesPath": "C:\\Users\\lsnow\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lsnow\\OneDrive\\Desktop\\ShapeShifters\\ShapeShifters\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+<<<<<<< HEAD
+        "C:\\Users\\lsnow\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
         "C:\\Users\\mufos\\AppData\\Roaming\\NuGet\\NuGet.Config"
+<<<<<<< HEAD
+>>>>>>> 4917e4010a7b900deff38117548d2b0800f7a938
+>>>>>>> d73ce781801d8d932061f6e5eaa7210c3a1d6076
+=======
+>>>>>>> e84903d6127c4ab0475801d8067bde9192203319
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -847,7 +884,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
       }
     }
   }
