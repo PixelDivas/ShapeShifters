@@ -8,7 +8,11 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ShapeShifters
 build_property.RootNamespace = ShapeShifters
+<<<<<<< HEAD
+build_property.ProjectDir = c:\Users\lsnow\Desktop\ShapeShifters\ShapeShifters\
+=======
 build_property.ProjectDir = C:\Users\mufos\OneDrive\Desktop\ShapeShifters\ShapeShifters\
+>>>>>>> 5135efb0f4b53e96dc528d9b19e74608ae5c953b
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
@@ -63,6 +67,21 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxpbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+<<<<<<< HEAD
+[c:/Users/lsnow/Desktop/ShapeShifters/ShapeShifters/Views/User/login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxsb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/lsnow/Desktop/ShapeShifters/ShapeShifters/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/lsnow/Desktop/ShapeShifters/ShapeShifters/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/lsnow/Desktop/ShapeShifters/ShapeShifters/Views/Shared/_Layout.cshtml]
+=======
 [C:/Users/mufos/OneDrive/Desktop/ShapeShifters/ShapeShifters/Views/User/login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxsb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -76,5 +95,6 @@ build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/mufos/OneDrive/Desktop/ShapeShifters/ShapeShifters/Views/Shared/_Layout.cshtml]
+>>>>>>> 5135efb0f4b53e96dc528d9b19e74608ae5c953b
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-moxeb1vnfd
