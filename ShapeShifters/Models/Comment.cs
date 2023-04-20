@@ -7,6 +7,7 @@ public class Comment {
     public int CommentId {get; set;}
     // add more attributes here
 
+    [Required]
     public string Content {get;set;}
 
     //! 1 user can make many comments. (User model needed)
