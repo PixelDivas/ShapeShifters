@@ -37,9 +37,24 @@ public class PostController : Controller
 
     [HttpGet("/posts/all")]
     public IActionResult All(){
+        ViewModel model = new ViewModel{
+            allPosts = db.Posts.Include(p => p.MessageAuthor).Include(p => p.FileUploadList).Include(p => p.CommentList).ThenInclude(c => c.CommentAuthor).ToList()
+        };
+        
+        return View("All", model);
+    }
 
-        List<Post> allPosts = db.Posts.Include(p => p.MessageAuthor).Include(p => p.FileUploadList).ToList();
-        return View("All", allPosts);
+    [HttpPost("/posts/{postId}/comment")]
+    public IActionResult Comment(int postId, ViewModel model){
+        if(!ModelState.IsValid){
+            model.allPosts = db.Posts.Include(p => p.MessageAuthor).Include(p => p.FileUploadList).Include(p => p.CommentList).ThenInclude(c => c.CommentAuthor).ToList();
+            return View("All", model);
+        }
+        model.comment.UserId = (int)uid;
+        model.comment.PostId = postId;
+        db.Comments.Add(model.comment);
+        db.SaveChanges();
+        return RedirectToAction("All");
     }
 
     [HttpGet("/posts/{postId}/edit")]
@@ -62,7 +77,7 @@ public class PostController : Controller
         post.UpdatedAt = DateTime.Now;
         db.Posts.Update(post);
         db.SaveChanges();
-        return RedirectToAction("All");
+        return RedirectToAction("File", new{ postId = editedPost.PostId});
     }
 
     [HttpGet("/posts/{postId}/delete")]
@@ -107,4 +122,6 @@ public class PostController : Controller
     }
     return File(postId);
     }
+
+    
 }                  

@@ -1,6 +1,32 @@
 {
   "version": 2,
 <<<<<<< HEAD
+  "dgSpecHash": "B0yXM/7kJs8muK0Nl9HwzwzR4TASfm0azjm6PCb0dqKb2yrVN+ruMAtikJjqmKrixX1iqoJCV3AtlsAOEJ3Kiw==",
+  "success": true,
+  "projectFilePath": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/ShapeShifters.csproj",
+  "expectedPackageFiles": [
+    "/Users/wosassociate/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
+    "/Users/wosassociate/.nuget/packages/microsoft.entityframeworkcore/6.0.3/microsoft.entityframeworkcore.6.0.3.nupkg.sha512",
+    "/Users/wosassociate/.nuget/packages/microsoft.entityframeworkcore.abstractions/6.0.3/microsoft.entityframeworkcore.abstractions.6.0.3.nupkg.sha512",
+    "/Users/wosassociate/.nuget/packages/microsoft.entityframeworkcore.analyzers/6.0.3/microsoft.entityframeworkcore.analyzers.6.0.3.nupkg.sha512",
+    "/Users/wosassociate/.nuget/packages/microsoft.entityframeworkcore.design/6.0.3/microsoft.entityframeworkcore.design.6.0.3.nupkg.sha512",
+    "/Users/wosassociate/.nuget/packages/microsoft.entityframeworkcore.relational/6.0.3/microsoft.entityframeworkcore.relational.6.0.3.nupkg.sha512",
+    "/Users/wosassociate/.nuget/packages/microsoft.extensions.caching.abstractions/6.0.0/microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
+    "/Users/wosassociate/.nuget/packages/microsoft.extensions.caching.memory/6.0.1/microsoft.extensions.caching.memory.6.0.1.nupkg.sha512",
+    "/Users/wosassociate/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "/Users/wosassociate/.nuget/packages/microsoft.extensions.dependencyinjection/6.0.0/microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "/Users/wosassociate/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/wosassociate/.nuget/packages/microsoft.extensions.logging/6.0.0/microsoft.extensions.logging.6.0.0.nupkg.sha512",
+    "/Users/wosassociate/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/Users/wosassociate/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/Users/wosassociate/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/wosassociate/.nuget/packages/mysqlconnector/2.1.2/mysqlconnector.2.1.2.nupkg.sha512",
+    "/Users/wosassociate/.nuget/packages/pomelo.entityframeworkcore.mysql/6.0.1/pomelo.entityframeworkcore.mysql.6.0.1.nupkg.sha512",
+    "/Users/wosassociate/.nuget/packages/system.collections.immutable/6.0.0/system.collections.immutable.6.0.0.nupkg.sha512",
+    "/Users/wosassociate/.nuget/packages/system.diagnostics.diagnosticsource/6.0.0/system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "/Users/wosassociate/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
   "dgSpecHash": "gcKdYXJ6Ljh0yuPPoWe5B3OrzBZZifIHQm0n0+yajrCMsI0UrKvSg77psjd7h7+bVK3DqFyelgTu6x2gF70KeA==",
 =======
@@ -84,6 +110,7 @@
 >>>>>>> d73ce781801d8d932061f6e5eaa7210c3a1d6076
 =======
 >>>>>>> e84903d6127c4ab0475801d8067bde9192203319
+>>>>>>> 1993102381dc371b53656fe07ae4658ecb5ce96f
   ],
   "logs": []
 }

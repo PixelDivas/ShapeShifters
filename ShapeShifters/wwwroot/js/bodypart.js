@@ -17,13 +17,22 @@ console.log(encodeURI(location.pathname.replace('/exercises/', '')), "path name"
         .then(data=> {
             const apiData = data;
             var node = document.createElement('ul');
+            node.classList.add('list-unstyled')
+            node.classList.add('row', 'row-cols-2', 'row-cols-lg-5', 'g-2', 'g-lg-3')
             apiData.forEach(item => {
                 var listItem = document.createElement('li');
+                listItem.classList.add('col')
                 // console.log(apiData, "api data object"); // this works
                 var exerciseName = document.createElement('button');
+                exerciseName.classList.add('p-3')
                 exerciseName.id = item.id
                 console.log(exerciseName.id, 'button with  the id')
-                exerciseName.classList.add('accordion-item')
+                exerciseName.setAttribute('type', 'button')
+                exerciseName.classList.add('btn', 'w-100', 'h-100')
+                exerciseName.classList.add('btn-secondary')
+                exerciseName.classList.add('bg-#8B0000')
+                exerciseName.classList.add('btn-lg')
+                exerciseName.classList.add('btn-block')
                 exerciseName.innerText= item.name;
                 listItem.appendChild(exerciseName)
                 node.appendChild(listItem);

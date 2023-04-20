@@ -4,6 +4,10 @@
     <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
     <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
     <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+<<<<<<< HEAD
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">/Users/wosassociate/.nuget/packages/</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">/Users/wosassociate/.nuget/packages/</NuGetPackageFolders>
+=======
     <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -18,10 +22,14 @@
 =======
     <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\mufos\.nuget\packages\</NuGetPackageFolders>
 >>>>>>> e84903d6127c4ab0475801d8067bde9192203319
+>>>>>>> 1993102381dc371b53656fe07ae4658ecb5ce96f
     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
     <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.3.1</NuGetToolVersion>
   </PropertyGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+<<<<<<< HEAD
+    <SourceRoot Include="/Users/wosassociate/.nuget/packages/" />
+=======
 <<<<<<< HEAD
 <<<<<<< HEAD
     <SourceRoot Include="C:\Users\lsnow\.nuget\packages\" />
@@ -35,8 +43,9 @@
 =======
     <SourceRoot Include="C:\Users\mufos\.nuget\packages\" />
 >>>>>>> e84903d6127c4ab0475801d8067bde9192203319
+>>>>>>> 1993102381dc371b53656fe07ae4658ecb5ce96f
   </ItemGroup>
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore.design\6.0.3\build\net6.0\Microsoft.EntityFrameworkCore.Design.props" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore.design\6.0.3\build\net6.0\Microsoft.EntityFrameworkCore.Design.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore.design/6.0.3/build/net6.0/Microsoft.EntityFrameworkCore.Design.props" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore.design/6.0.3/build/net6.0/Microsoft.EntityFrameworkCore.Design.props')" />
   </ImportGroup>
 </Project>
