@@ -153,6 +153,8 @@ fetch('https://exercisedb.p.rapidapi.com/exercises/bodyPartList', another)
     //             }
     //         }
     //     })
-    // }    
+    // }
+    
+   
 
 
