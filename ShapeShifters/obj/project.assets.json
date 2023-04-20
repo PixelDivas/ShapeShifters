@@ -782,9 +782,6 @@
   },
   "packageFolders": {
 <<<<<<< HEAD
-    "/Users/wosassociate/.nuget/packages/": {}
-=======
-<<<<<<< HEAD
 <<<<<<< HEAD
     "C:\\Users\\lsnow\\.nuget\\packages\\": {}
 =======
@@ -797,21 +794,10 @@
 =======
     "C:\\Users\\mufos\\.nuget\\packages\\": {}
 >>>>>>> e84903d6127c4ab0475801d8067bde9192203319
->>>>>>> 1993102381dc371b53656fe07ae4658ecb5ce96f
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/ShapeShifters.csproj",
-      "projectName": "ShapeShifters",
-      "projectPath": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/ShapeShifters.csproj",
-      "packagesPath": "/Users/wosassociate/.nuget/packages/",
-      "outputPath": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/obj/",
-      "projectStyle": "PackageReference",
-      "configFilePaths": [
-        "/Users/wosassociate/.nuget/NuGet/NuGet.Config"
-=======
 <<<<<<< HEAD
 <<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\lsnow\\OneDrive\\Desktop\\ShapeShifters\\ShapeShifters\\ShapeShifters.csproj",
@@ -845,7 +831,6 @@
 >>>>>>> d73ce781801d8d932061f6e5eaa7210c3a1d6076
 =======
 >>>>>>> e84903d6127c4ab0475801d8067bde9192203319
->>>>>>> 1993102381dc371b53656fe07ae4658ecb5ce96f
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -899,11 +884,7 @@
             "privateAssets": "all"
           }
         },
-<<<<<<< HEAD
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.407/RuntimeIdentifierGraph.json"
-=======
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
->>>>>>> 1993102381dc371b53656fe07ae4658ecb5ce96f
       }
     }
   }
