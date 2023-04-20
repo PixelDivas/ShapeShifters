@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TWaGDpbq3CBKcBl2IXcasW/IqeKhJ1a3QzcoevTU1Nw=",
+  "Hash": "eALSGHzfRLM7eFsJ0/djcml0c81HoXx690QYA2DC4wU=",
   "Source": "ShapeShifters",
   "BasePath": "_content/ShapeShifters",
   "Mode": "Default",
@@ -51,12 +51,12 @@
       "OriginalItemSpec": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ShapeShifters.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\background.png",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
       "BasePath": "_content/ShapeShifters",
-      "RelativePath": "css/bootstrap.min.css.map",
+      "RelativePath": "background.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -65,7 +65,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css.map"
+      "OriginalItemSpec": "wwwroot\\background.png"
     },
     {
       "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\css\\site.css",
@@ -134,23 +134,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\bodypart.js"
-    },
-    {
-      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\js\\bootstrap.bundle.min.js",
-      "SourceId": "ShapeShifters",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
-      "BasePath": "_content/ShapeShifters",
-      "RelativePath": "js/bootstrap.bundle.min.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\bootstrap.bundle.min.js"
     },
     {
       "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\js\\exercise.js",

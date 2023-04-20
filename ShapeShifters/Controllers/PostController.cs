@@ -77,7 +77,7 @@ public class PostController : Controller
         post.UpdatedAt = DateTime.Now;
         db.Posts.Update(post);
         db.SaveChanges();
-        return RedirectToAction("All");
+        return RedirectToAction("File", new{ postId = editedPost.PostId});
     }
 
     [HttpGet("/posts/{postId}/delete")]
