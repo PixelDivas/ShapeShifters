@@ -31,12 +31,15 @@ fetch('https://exercisedb.p.rapidapi.com/exercises/bodyPartList', another)
         // console.log(data, "Shows the API data"); 
         const listData = data;
         var node = document.createElement('ul');
+        node.classList.add('list-group')
         // const listContainer = "hello";xs
 
         listData.forEach(item =>{
             // console.log(item, "Shows item from API data list");
             var listItem = document.createElement('li');
             var a = document.createElement('a');
+            a.classList.add('list-group-item')
+            a.classList.add('list-group-item-action')
             a.href= '/exercises/'+item;
             // console.log(a.href, 'link') //! may need to be changed to correctly add href to button
             a.setAttribute('id', item);
@@ -153,7 +156,9 @@ fetch('https://exercisedb.p.rapidapi.com/exercises/bodyPartList', another)
     //             }
     //         }
     //     })
-    // }    
+    // }
+    
+   
 
 
 
