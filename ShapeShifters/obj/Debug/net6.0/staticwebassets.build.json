@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "uk7fIC0fUFvZhu7gtQoHlczYFMdnTqAkVRV20olOJR8=",
+  "Hash": "DA1lbcOT5S7csX45W0s3AOGWJeZgT6dbSG7aPP76GaU=",
   "Source": "ShapeShifters",
   "BasePath": "_content/ShapeShifters",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\mufos\\OneDrive\\Desktop\\ShapeShifters\\ShapeShifters\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ShapeShifters.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\mufos\\OneDrive\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\css\\exercise.css",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mufos\\OneDrive\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+      "BasePath": "_content/ShapeShifters",
+      "RelativePath": "css/exercise.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\exercise.css"
     },
     {
       "Identity": "C:\\Users\\mufos\\OneDrive\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\css\\post.css",
@@ -117,6 +134,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\mufos\\OneDrive\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\images\\logo.png",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mufos\\OneDrive\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+      "BasePath": "_content/ShapeShifters",
+      "RelativePath": "images/logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logo.png"
     },
     {
       "Identity": "C:\\Users\\mufos\\OneDrive\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\js\\bodypart.js",
