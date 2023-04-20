@@ -2,6 +2,7 @@
 // for details on configuring this project to bundle and minify static web assets.
 
 // Write your JavaScript code.
+<<<<<<< HEAD
 const options = {
 	method: 'GET',
 	headers: {
@@ -181,3 +182,5 @@ fetch('https://exercisedb.p.rapidapi.com/exercises/bodyPartList', another)
 
     navbarLinksContainer.addEventListener("click", (e) => e.stopPropagation());
     navbarMenu.addEventListener("click", toggleNavbarVisibility);
+=======
+>>>>>>> 1993102381dc371b53656fe07ae4658ecb5ce96f
