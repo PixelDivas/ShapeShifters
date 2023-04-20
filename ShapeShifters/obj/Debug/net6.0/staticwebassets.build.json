@@ -1,18 +1,6 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "Hash": "eALSGHzfRLM7eFsJ0/djcml0c81HoXx690QYA2DC4wU=",
-=======
-<<<<<<< HEAD
-  "Hash": "DA1lbcOT5S7csX45W0s3AOGWJeZgT6dbSG7aPP76GaU=",
-=======
-<<<<<<< HEAD
-  "Hash": "tkZcarXKGkcaDvNDayXl7vDUnJHlggM1qNee9H8leco=",
-=======
-  "Hash": "TWaGDpbq3CBKcBl2IXcasW/IqeKhJ1a3QzcoevTU1Nw=",
->>>>>>> 27f1ad92e59834926dadd859e3a53dd638bc60a7
->>>>>>> 5711d67795708ecd579cc8cbeb50a123b80d7c0c
->>>>>>> 5253b884d5639ec6be57e698c992e0e633a8db73
+  "Hash": "nQ3jmWJmhkExvSOLthNa1OkXFyOtDGtCz4H0nEmYljo=",
   "Source": "ShapeShifters",
   "BasePath": "_content/ShapeShifters",
   "Mode": "Default",
@@ -60,39 +48,6 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/obj/Debug/net6.0/scopedcss/projectbundle/ShapeShifters.bundle.scp.css"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\mufos\\OneDrive\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\css\\exercise.css",
-      "SourceId": "ShapeShifters",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mufos\\OneDrive\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
-      "BasePath": "_content/ShapeShifters",
-      "RelativePath": "css/exercise.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\exercise.css"
-    },
-    {
-      "Identity": "C:\\Users\\mufos\\OneDrive\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\css\\post.css",
-=======
-      "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/css/post.css",
->>>>>>> 5711d67795708ecd579cc8cbeb50a123b80d7c0c
-      "SourceId": "ShapeShifters",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
-=======
->>>>>>> 5253b884d5639ec6be57e698c992e0e633a8db73
       "OriginalItemSpec": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ShapeShifters.bundle.scp.css"
     },
     {
@@ -111,6 +66,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\css\\exercise.css",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+      "BasePath": "_content/ShapeShifters",
+      "RelativePath": "css/exercise.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\exercise.css"
     },
     {
       "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\css\\site.css",
@@ -164,13 +136,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\mufos\\OneDrive\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\images\\logo.png",
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\images\\logo.png",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mufos\\OneDrive\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "images/logo.png",
       "AssetKind": "All",
@@ -184,16 +153,6 @@
       "OriginalItemSpec": "wwwroot\\images\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\mufos\\OneDrive\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\js\\bodypart.js",
-=======
-<<<<<<< HEAD
-      "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/js/bodypart.js",
->>>>>>> 5711d67795708ecd579cc8cbeb50a123b80d7c0c
-      "SourceId": "ShapeShifters",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
-=======
->>>>>>> 5253b884d5639ec6be57e698c992e0e633a8db73
       "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\js\\bodypart.js",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
