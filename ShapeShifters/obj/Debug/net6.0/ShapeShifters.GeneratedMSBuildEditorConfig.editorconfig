@@ -8,6 +8,78 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ShapeShifters
 build_property.RootNamespace = ShapeShifters
+<<<<<<< HEAD
+build_property.ProjectDir = /Users/wosassociate/Documents/ShapeShifters/ShapeShifters/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/wosassociate/Documents/ShapeShifters/ShapeShifters
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/Views/Exercise/ExerciseByBodyPart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXhlcmNpc2UvRXhlcmNpc2VCeUJvZHlQYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/Views/Exercise/ExerciseList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXhlcmNpc2UvRXhlcmNpc2VMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/Views/Exercise/OneExercise.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXhlcmNpc2UvT25lRXhlcmNpc2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/Views/Post/All.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUG9zdC9BbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/Views/Post/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUG9zdC9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/Views/Post/File.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUG9zdC9GaWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/Views/Post/New.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUG9zdC9OZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/Views/User/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9pbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/Views/User/login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9sb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-b8fxgs0at0
+=======
 build_property.ProjectDir = C:\Users\lsnow\Desktop\ShapeShifters\ShapeShifters\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
@@ -78,3 +150,4 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/lsnow/Desktop/ShapeShifters/ShapeShifters/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-moxeb1vnfd
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
