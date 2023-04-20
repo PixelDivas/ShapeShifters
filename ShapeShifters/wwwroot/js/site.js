@@ -16,14 +16,14 @@ const another = {
 		'X-RapidAPI-Host': 'exercisedb.p.rapidapi.com'
 	}
 };
-fetch('https://exercisedb.p.rapidapi.com/exercises/bodyPartList', options)
-	.then(response => response.json())
-	.then(data => {
-        const responseData = data;
-        const exercise = document.querySelector('#exercise');
-        exercise.innerHTML = responseData;
-    })
-	.catch(err => console.error(err));
+// fetch('https://exercisedb.p.rapidapi.com/exercises/bodyPartList', options)
+// 	.then(response => response.json())
+// 	.then(data => {
+//         const responseData = data;
+//         const exercise = document.querySelector('#exercise');
+//         exercise.innerHTML = responseData;
+//     })
+// 	.catch(err => console.error(err));
 
 fetch('https://exercisedb.p.rapidapi.com/exercises/bodyPartList', another)
     .then(response => response.json())
@@ -31,7 +31,8 @@ fetch('https://exercisedb.p.rapidapi.com/exercises/bodyPartList', another)
         // console.log(data, "Shows the API data"); 
         const listData = data;
         var node = document.createElement('ul');
-        node.classList.add('list-group')
+        node.classList.add('list-group', 'text-center')
+        node.classList.add('list-unstyled')
         // const listContainer = "hello";xs
 
         listData.forEach(item =>{
