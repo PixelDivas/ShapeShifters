@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "tvFYJxODtg6rZiOLyOgGdsmYMhczhlYeCKsLMS7w7GI=",
+=======
+  "Hash": "nQ3jmWJmhkExvSOLthNa1OkXFyOtDGtCz4H0nEmYljo=",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
   "Source": "ShapeShifters",
   "BasePath": "_content/ShapeShifters",
   "Mode": "Default",
@@ -8,19 +12,30 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "ShapeShifters/wwwroot",
+      "Name": "ShapeShifters\\wwwroot",
       "Source": "ShapeShifters",
+<<<<<<< HEAD
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/obj/Debug/net6.0/scopedcss/bundle/ShapeShifters.styles.css",
       "SourceId": "ShapeShifters",
       "SourceType": "Computed",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/obj/Debug/net6.0/scopedcss/bundle/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ShapeShifters.styles.css",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "ShapeShifters.styles.css",
       "AssetKind": "All",
@@ -31,6 +46,7 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/obj/Debug/net6.0/scopedcss/bundle/ShapeShifters.styles.css"
     },
     {
@@ -38,6 +54,15 @@
       "SourceId": "ShapeShifters",
       "SourceType": "Computed",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/obj/Debug/net6.0/scopedcss/projectbundle/",
+=======
+      "OriginalItemSpec": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ShapeShifters.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ShapeShifters.bundle.scp.css",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "ShapeShifters.bundle.scp.css",
       "AssetKind": "All",
@@ -48,6 +73,7 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/obj/Debug/net6.0/scopedcss/projectbundle/ShapeShifters.bundle.scp.css"
     },
     {
@@ -57,6 +83,17 @@
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "693BEECA-931D-4729-9750-FEBE576E3DCC.png",
+=======
+      "OriginalItemSpec": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ShapeShifters.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\background.png",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+      "BasePath": "_content/ShapeShifters",
+      "RelativePath": "background.png",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -65,13 +102,38 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot/693BEECA-931D-4729-9750-FEBE576E3DCC.png"
+=======
+      "OriginalItemSpec": "wwwroot\\background.png"
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
     },
     {
-      "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/css/site.css",
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\css\\exercise.css",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
+<<<<<<< HEAD
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+      "BasePath": "_content/ShapeShifters",
+      "RelativePath": "css/exercise.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\exercise.css"
+    },
+    {
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\css\\site.css",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -82,13 +144,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/site.css"
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/css/styles.css",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\css\\styles.css",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "css/styles.css",
       "AssetKind": "All",
@@ -99,13 +168,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/styles.css"
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/favicon.ico",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\favicon.ico",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -116,9 +192,10 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/favicon.ico"
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/gym-background-sharp-focus-emitting-diodes-smoke-artillery-sparks-racks-system-unit-motherb-834803344.png",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
@@ -140,6 +217,29 @@
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\images\\logo.png",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+      "BasePath": "_content/ShapeShifters",
+      "RelativePath": "images/logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logo.png"
+    },
+    {
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\js\\bodypart.js",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "js/bodypart.js",
       "AssetKind": "All",
@@ -150,6 +250,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot/js/bodypart.js"
     },
     {
@@ -157,6 +258,15 @@
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "OriginalItemSpec": "wwwroot\\js\\bodypart.js"
+    },
+    {
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\js\\exercise.js",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "js/exercise.js",
       "AssetKind": "All",
@@ -167,13 +277,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/js/exercise.js"
+      "OriginalItemSpec": "wwwroot\\js\\exercise.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/js/javascript.md",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\js\\javascript.md",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "js/javascript.md",
       "AssetKind": "All",
@@ -184,13 +301,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/js/javascript.md"
+      "OriginalItemSpec": "wwwroot\\js\\javascript.md"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/js/site.js",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\js\\site.js",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -201,13 +325,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/js/site.js"
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -218,13 +349,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -235,13 +373,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -252,13 +397,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -269,13 +421,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -286,13 +445,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -303,13 +469,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -320,13 +493,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -337,13 +517,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -354,13 +541,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -371,13 +565,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -388,13 +589,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -405,13 +613,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -422,13 +637,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -439,13 +661,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -456,13 +685,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -473,13 +709,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -490,13 +733,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -507,13 +757,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -524,13 +781,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -541,13 +805,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -558,13 +829,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -575,13 +853,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -592,13 +877,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -609,13 +901,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -626,13 +925,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -643,13 +949,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -660,13 +973,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -677,13 +997,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -694,13 +1021,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -711,13 +1045,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -728,13 +1069,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -745,13 +1093,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -762,13 +1117,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -779,13 +1141,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -796,13 +1165,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -813,13 +1189,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -830,13 +1213,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -847,13 +1237,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -864,13 +1261,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -881,13 +1285,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -898,13 +1309,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -915,13 +1333,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -932,13 +1357,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -949,13 +1381,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/bootstrap/LICENSE",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -966,13 +1405,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/LICENSE"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -983,13 +1429,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1000,13 +1453,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1017,13 +1477,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1034,13 +1501,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1051,13 +1525,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1068,13 +1549,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1085,13 +1573,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/jquery-validation/LICENSE.md",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1102,13 +1597,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation/LICENSE.md"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/jquery/dist/jquery.js",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1119,13 +1621,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/jquery/dist/jquery.min.js",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1136,13 +1645,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/jquery/dist/jquery.min.map",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1153,13 +1669,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.map"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/lib/jquery/LICENSE.txt",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1170,13 +1693,20 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery/LICENSE.txt"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
+<<<<<<< HEAD
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/userimage.png",
       "SourceId": "ShapeShifters",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+=======
+      "Identity": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\userimage.png",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\wwwroot\\",
+>>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
       "BasePath": "_content/ShapeShifters",
       "RelativePath": "userimage.png",
       "AssetKind": "All",
@@ -1187,7 +1717,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/userimage.png"
+      "OriginalItemSpec": "wwwroot\\userimage.png"
     }
   ]
 }
