@@ -1,4 +1,41 @@
 <<<<<<< HEAD
+C:\Users\mufos\OneDrive\Desktop\ShapeShifters\ShapeShifters\obj\Debug\net6.0\ShapeShifters.csproj.AssemblyReference.cache
+C:\Users\mufos\OneDrive\Desktop\ShapeShifters\ShapeShifters\obj\Debug\net6.0\ShapeShifters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mufos\OneDrive\Desktop\ShapeShifters\ShapeShifters\obj\Debug\net6.0\ShapeShifters.AssemblyInfoInputs.cache
+C:\Users\mufos\OneDrive\Desktop\ShapeShifters\ShapeShifters\obj\Debug\net6.0\ShapeShifters.AssemblyInfo.cs
+C:\Users\mufos\OneDrive\Desktop\ShapeShifters\ShapeShifters\obj\Debug\net6.0\ShapeShifters.csproj.CoreCompileInputs.cache
+C:\Users\mufos\OneDrive\Desktop\ShapeShifters\ShapeShifters\obj\Debug\net6.0\ShapeShifters.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mufos\OneDrive\Desktop\ShapeShifters\ShapeShifters\obj\Debug\net6.0\ShapeShifters.RazorAssemblyInfo.cache
+C:\Users\mufos\OneDrive\Desktop\ShapeShifters\ShapeShifters\obj\Debug\net6.0\ShapeShifters.RazorAssemblyInfo.cs
+C:\Users\mufos\OneDrive\Desktop\ShapeShifters\ShapeShifters\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mufos\OneDrive\Desktop\ShapeShifters\ShapeShifters\bin\Debug\net6.0\appsettings.json
+C:\Users\mufos\OneDrive\Desktop\ShapeShifters\ShapeShifters\bin\Debug\net6.0\ShapeShifters.staticwebassets.runtime.json
+C:\Users\mufos\OneDrive\Desktop\ShapeShifters\ShapeShifters\bin\Debug\net6.0\ShapeShifters.exe
+C:\Users\mufos\OneDrive\Desktop\ShapeShifters\ShapeShifters\bin\Debug\net6.0\ShapeShifters.deps.json
+C:\Users\mufos\OneDrive\Desktop\ShapeShifters\ShapeShifters\bin\Debug\net6.0\ShapeShifters.runtimeconfig.json
+C:\Users\mufos\OneDrive\Desktop\ShapeShifters\ShapeShifters\bin\Debug\net6.0\ShapeShifters.dll
+C:\Users\mufos\OneDrive\Desktop\ShapeShifters\ShapeShifters\bin\Debug\net6.0\ShapeShifters.pdb
+C:\Users\mufos\OneDrive\Desktop\ShapeShifters\ShapeShifters\bin\Debug\net6.0\Humanizer.dll
+C:\Users\mufos\OneDrive\Desktop\ShapeShifters\ShapeShifters\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mufos\OneDrive\Desktop\ShapeShifters\ShapeShifters\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mufos\OneDrive\Desktop\ShapeShifters\ShapeShifters\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mufos\OneDrive\Desktop\ShapeShifters\ShapeShifters\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mufos\OneDrive\Desktop\ShapeShifters\ShapeShifters\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mufos\OneDrive\Desktop\ShapeShifters\ShapeShifters\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\mufos\OneDrive\Desktop\ShapeShifters\ShapeShifters\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\mufos\OneDrive\Desktop\ShapeShifters\ShapeShifters\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mufos\OneDrive\Desktop\ShapeShifters\ShapeShifters\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mufos\OneDrive\Desktop\ShapeShifters\ShapeShifters\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mufos\OneDrive\Desktop\ShapeShifters\ShapeShifters\obj\Debug\net6.0\scopedcss\bundle\ShapeShifters.styles.css
+C:\Users\mufos\OneDrive\Desktop\ShapeShifters\ShapeShifters\obj\Debug\net6.0\scopedcss\projectbundle\ShapeShifters.bundle.scp.css
+C:\Users\mufos\OneDrive\Desktop\ShapeShifters\ShapeShifters\obj\Debug\net6.0\ShapeShifters.csproj.CopyComplete
+C:\Users\mufos\OneDrive\Desktop\ShapeShifters\ShapeShifters\obj\Debug\net6.0\ShapeShifters.dll
+C:\Users\mufos\OneDrive\Desktop\ShapeShifters\ShapeShifters\obj\Debug\net6.0\refint\ShapeShifters.dll
+C:\Users\mufos\OneDrive\Desktop\ShapeShifters\ShapeShifters\obj\Debug\net6.0\ShapeShifters.pdb
+C:\Users\mufos\OneDrive\Desktop\ShapeShifters\ShapeShifters\obj\Debug\net6.0\ShapeShifters.genruntimeconfig.cache
+C:\Users\mufos\OneDrive\Desktop\ShapeShifters\ShapeShifters\obj\Debug\net6.0\ref\ShapeShifters.dll
+=======
+<<<<<<< HEAD
 /Users/wosassociate/Documents/ShapeShifters/ShapeShifters/bin/Debug/net6.0/appsettings.Development.json
 /Users/wosassociate/Documents/ShapeShifters/ShapeShifters/bin/Debug/net6.0/appsettings.json
 /Users/wosassociate/Documents/ShapeShifters/ShapeShifters/bin/Debug/net6.0/ShapeShifters.staticwebassets.runtime.json
@@ -71,3 +108,4 @@ C:\Users\lsnow\Desktop\ShapeShifters\ShapeShifters\obj\Debug\net6.0\ShapeShifter
 C:\Users\lsnow\Desktop\ShapeShifters\ShapeShifters\obj\Debug\net6.0\ShapeShifters.genruntimeconfig.cache
 C:\Users\lsnow\Desktop\ShapeShifters\ShapeShifters\obj\Debug\net6.0\ref\ShapeShifters.dll
 >>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
+>>>>>>> d24d4d2fab512b9da7b19ce2cbda5c19329fd5ff

@@ -1,9 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "B0yXM/7kJs8muK0Nl9HwzwzR4TASfm0azjm6PCb0dqKb2yrVN+ruMAtikJjqmKrixX1iqoJCV3AtlsAOEJ3Kiw==",
+  "dgSpecHash": "qONaIIaLgVPi6zwpQOcByRpNmJrR+4cthdMDftZk4DUGJyA/TBUTMSrBcD2KuDqWBkpFS6J7QWUZYqU/YIfIww==",
   "success": true,
-  "projectFilePath": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/ShapeShifters.csproj",
+  "projectFilePath": "C:\\Users\\mufos\\OneDrive\\Desktop\\ShapeShifters\\ShapeShifters\\ShapeShifters.csproj",
   "expectedPackageFiles": [
     "/Users/wosassociate/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/wosassociate/.nuget/packages/microsoft.entityframeworkcore/6.0.3/microsoft.entityframeworkcore.6.0.3.nupkg.sha512",
@@ -50,7 +49,7 @@
     "C:\\Users\\lsnow\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\lsnow\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\lsnow\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
->>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
+>>>>>>> d24d4d2fab512b9da7b19ce2cbda5c19329fd5ff
   ],
   "logs": []
 }

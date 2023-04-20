@@ -1,18 +1,17 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/ShapeShifters.csproj": {}
+    "C:\\Users\\mufos\\OneDrive\\Desktop\\ShapeShifters\\ShapeShifters\\ShapeShifters.csproj": {}
   },
   "projects": {
-    "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/ShapeShifters.csproj": {
+    "C:\\Users\\mufos\\OneDrive\\Desktop\\ShapeShifters\\ShapeShifters\\ShapeShifters.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/ShapeShifters.csproj",
+        "projectUniqueName": "C:\\Users\\mufos\\OneDrive\\Desktop\\ShapeShifters\\ShapeShifters\\ShapeShifters.csproj",
         "projectName": "ShapeShifters",
-        "projectPath": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/ShapeShifters.csproj",
-        "packagesPath": "/Users/wosassociate/.nuget/packages/",
-        "outputPath": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/obj/",
+        "projectPath": "C:\\Users\\mufos\\OneDrive\\Desktop\\ShapeShifters\\ShapeShifters\\ShapeShifters.csproj",
+        "packagesPath": "C:\\Users\\mufos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mufos\\OneDrive\\Desktop\\ShapeShifters\\ShapeShifters\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/wosassociate/.nuget/NuGet/NuGet.Config"
@@ -31,7 +30,7 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lsnow\\AppData\\Roaming\\NuGet\\NuGet.Config"
->>>>>>> 41cd767623cb1921aa45531e3f021d5b641c85fb
+>>>>>>> d24d4d2fab512b9da7b19ce2cbda5c19329fd5ff
         ],
         "originalTargetFrameworks": [
           "net6.0"
