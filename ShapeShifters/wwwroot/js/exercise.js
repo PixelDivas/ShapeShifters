@@ -21,11 +21,13 @@ fetch(`https://exercisedb.p.rapidapi.com/exercises/bodyPart/${bodyPart}`, option
                 if (exId == item.id)  {
                     console.log(item, "what we are trying to display")
                     var node = document.createElement('div')
+                    // node.classList.add('d-flex', 'align-items-center')
                     var getExerciseName = document.createElement('h1')
                     var getExerciseEquipment = document.createElement('p')
                     var getExerciseURL = document.createElement('img')
+                    getExerciseURL.classList.add('img-fluid', 'w-100' ,'h-100', 'rounded')
                     getExerciseName.innerText = item.name
-                    getExerciseEquipment.innerText = item.equipment
+                    getExerciseEquipment.innerText = `target muscle: ${item.target}`
                     getExerciseURL.src = item.gifUrl
                     node.appendChild(getExerciseName)
                     node.appendChild(getExerciseURL)
