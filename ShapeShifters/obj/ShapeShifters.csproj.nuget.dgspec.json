@@ -14,7 +14,23 @@
         "outputPath": "C:\\Users\\mufos\\OneDrive\\Desktop\\ShapeShifters\\ShapeShifters\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mufos\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/wosassociate/.nuget/NuGet/NuGet.Config"
+=======
+    "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\ShapeShifters.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\ShapeShifters.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\ShapeShifters.csproj",
+        "projectName": "ShapeShifters",
+        "projectPath": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\ShapeShifters.csproj",
+        "packagesPath": "C:\\Users\\lsnow\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lsnow\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> d24d4d2fab512b9da7b19ce2cbda5c19329fd5ff
         ],
         "originalTargetFrameworks": [
           "net6.0"
