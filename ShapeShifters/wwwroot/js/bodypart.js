@@ -23,7 +23,11 @@ console.log(encodeURI(location.pathname.replace('/exercises/', '')), "path name"
                 var exerciseName = document.createElement('button');
                 exerciseName.id = item.id
                 console.log(exerciseName.id, 'button with  the id')
-                exerciseName.classList.add('accordion-item')
+                exerciseName.setAttribute('type', 'button')
+                exerciseName.classList.add('btn')
+                exerciseName.classList.add('btn-secondary')
+                exerciseName.classList.add('btn-lg')
+                exerciseName.classList.add('btn-block')
                 exerciseName.innerText= item.name;
                 listItem.appendChild(exerciseName)
                 node.appendChild(listItem);
