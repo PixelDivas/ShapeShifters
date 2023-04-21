@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using ShapeShifters.Models;
-
+using static ShapeShifters.Controllers.UserController;//sessioncheck
 namespace ShapeShifters.Controllers;
 
 public class PostController : Controller
@@ -17,11 +17,12 @@ public class PostController : Controller
         db = context;
     }
 
+  [SessionCheck]
     [HttpGet("/posts/new")]
     public IActionResult New(){
         return View("New");
     }
-
+    [SessionCheck]
     [HttpPost("/posts/create")]
     public IActionResult Create(Post newPost){
         if(!ModelState.IsValid){
@@ -35,6 +36,7 @@ public class PostController : Controller
         return RedirectToAction("File", new{ postId = newPost.PostId} );
     }
 
+     [SessionCheck]
     [HttpGet("/posts/all")]
     public IActionResult All(){
         ViewModel model = new ViewModel{
@@ -43,7 +45,7 @@ public class PostController : Controller
         
         return View("All", model);
     }
-
+    [SessionCheck]
     [HttpPost("/posts/{postId}/comment")]
     public IActionResult Comment(int postId, ViewModel model){
         if(!ModelState.IsValid){
@@ -56,7 +58,7 @@ public class PostController : Controller
         db.SaveChanges();
         return RedirectToAction("All");
     }
-
+     [SessionCheck]
     [HttpGet("/posts/{postId}/edit")]
     public IActionResult Edit(int postId){
         Post? post = db.Posts.FirstOrDefault(p => p.PostId == postId);
@@ -65,7 +67,7 @@ public class PostController : Controller
         } 
         return View("Edit", post);
     }
-
+    [SessionCheck]
     [HttpPost("/posts/{postId}/update")]
     public IActionResult Update(Post editedPost, int postId){
         if(!ModelState.IsValid){

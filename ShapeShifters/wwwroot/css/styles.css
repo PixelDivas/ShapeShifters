@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background: url(https://cdn.pixabay.com/photo/2018/02/06/14/07/ease-3134828_960_720.jpg)
+  background: url(https://www.stylist.co.uk/images/app/uploads/2020/09/30121744/strength-training-benefits-running-crop-1601465276-1920x1006.jpg?w=1680&h=880&fit=max&auto=format%2Ccompress)
     no-repeat;
   height: 100vh;
   font-family: sans-serif;
@@ -43,12 +43,13 @@ body {
   margin: 0 auto;
   display: block;
   margin-bottom: 20px;
+  background-color: #090967;
 }
 
 h3 {
   margin: 0;
   padding: 0 0 20px;
-  color: #59238f;
+  color: #558d02;
   text-align: center;
 }
 
@@ -98,7 +99,7 @@ h3 {
   outline: none;
   height: 40px;
   font-size: 16px;
-  background: #59238f;
+  background: #558d02;
   color: #fff;
   border-radius: 20px;
   cursor: pointer;
@@ -122,8 +123,16 @@ p {
 }
 
 .text-center {
-  color: #4b0082;
+  color:#558d02 ;
   float: left;
-  margin-top: 280px;
+  margin-top: 500px;
   text-decoration: overline;
+  
+}
+.text-warning{
+  color:red;
+}
+.border{
+ 
+  
 }
