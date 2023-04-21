@@ -1,21 +1,46 @@
 html {
   font-size: 14px;
+  
 }
-/* body{
-  background-image: url("https://storage.googleapis.com/pai-images/66448b2160df48dc933ec49f07e84c10.jpeg");
-  background-repeat: no-repeat;
-} */
+
+*{
+  /* font-family: "Courgette"; */
+  font-family: "Inconsolata";
+}
+
+
 body {
   /* The image used */
-  /*! background-image: url("../background.png");   this is  the image we commented out */
+  background-image: url("https://img.freepik.com/free-photo/black-textured-brick-wall-background_53876-63583.jpg?w=1380&t=st=1682049161~exp=1682049761~hmac=62acc3ae0325ec6cdac576f9c181b0d13d68bbc074cfc46c38aeb95430fda7b7");  
 
   /* Full height */
   height: 100%;
 
   /* Center and scale the image nicely */
   background-position: center;
-  background-repeat: repeat;
-  background-size: auto 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+
+  color: #f7f4f4;
+}
+a{
+  color:  #558d02;
+  
+}
+.card a{
+  color: #b1b3c9;
+}
+.card {
+  color: #f3f3f3 ;
+}
+.card .username{
+  color: #7079d3;
+}
+
+.file-background{
+  background-color: #b1b3c9
+  ;
 }
 
 @media (min-width: 768px) {
@@ -57,7 +82,6 @@ body {
   margin: 0;
   padding: 0;
 }
-
 .container {
   max-width: 1000px;
   padding-left: 1.4rem;
@@ -76,7 +100,6 @@ body {
 .navbar-container {
   display: flex;
   justify-content: space-between;
-
   align-items: center;
 }
 .navbar-item {
@@ -86,7 +109,6 @@ body {
 .logo{
   display: flex;
 }
-
 .home-link,
 .navbar-link {
   color: var(--navbar-text-color);
@@ -95,18 +117,15 @@ body {
   font-weight: 400;
   align-items: center;
 }
-
 .home-link:is(:focus, :hover) {
   color: var(--navbar-text-color-focus);
 }
-
 .navbar-link {
   justify-content: center;
   width: 100%;
   padding: 0.4em 0.8em;
   border-radius: 5px;
 }
-
 .navbar-link:is(:focus, :hover) {
   color: var(--navbar-text-color-focus);
   background-color: var(--navbar-bg-contrast);
@@ -180,7 +199,6 @@ body {
   border-radius: 5px;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
 }
-
 #navbar-toggle[aria-expanded="true"] + #navbar-menu .navbar-links {
   padding: 1em;
 }
@@ -189,7 +207,6 @@ body {
   #navbar-toggle[aria-expanded="true"] {
     display: none;
   }
-
   #navbar-menu,
   #navbar-toggle[aria-expanded="true"] #navbar-menu {
     visibility: visible;
@@ -198,7 +215,6 @@ body {
     display: block;
     height: 100%;
   }
-
   .navbar-links,
   #navbar-toggle[aria-expanded="true"] #navbar-menu .navbar-links {
     margin: 0;
