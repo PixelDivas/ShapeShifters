@@ -30,7 +30,7 @@ public class UserController : Controller
         {
             return RedirectToAction("ExerciseHome", "Exercise");
         } else {
-            return View("Index");
+            return View("index");
         }
     }
 
