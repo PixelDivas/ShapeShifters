@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gcKdYXJ6Ljh0yuPPoWe5B3OrzBZZifIHQm0n0+yajrCMsI0UrKvSg77psjd7h7+bVK3DqFyelgTu6x2gF70KeA==",
+  "dgSpecHash": "TzxvDsZSJnBXxbGRrnfDI4LpiKHJv+9uOC0CwsDjKxlPLj+qpoj7Ib5I1ulk/EleqeQNS41q2AZRkYgA7MwB8A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lsnow\\OneDrive\\Desktop\\ShapeShifters\\ShapeShifters\\ShapeShifters.csproj",
+  "projectFilePath": "C:\\Users\\lsnow\\Desktop\\ShapeShifters\\ShapeShifters\\ShapeShifters.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lsnow\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\lsnow\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.3\\microsoft.entityframeworkcore.6.0.3.nupkg.sha512",

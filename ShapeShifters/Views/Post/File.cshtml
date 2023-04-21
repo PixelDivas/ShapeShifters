@@ -1,0 +1,29 @@
+@model Post
+
+
+<div class="container mt-5">
+    <h1 class="display-3 mb-5">Add pictures to your post!</h1>
+    <div class="file-background p-3 rounded">
+        <form asp-action="Upload" method="post" asp-route-postId="@Model.PostId" enctype="multipart/form-data">
+            <div class="form-group">
+                <label for="file">Select file:</label>
+                <input type="file" name="file" id="file" class="form-control-file">
+            </div>
+            <button type="submit" class="btn btn-success my-3">Add</button>
+        </form>
+        
+        @* shows all files already uploaded, using to verify that file has beeb saved to db *@
+        
+        @foreach (var file in Model.FileUploadList)
+        {
+            <p class="col-8">@file.FileName
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-check-circle-fill" viewBox="0 0 16 16">
+                    <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"/>
+                </svg>
+            </p>
+        }
+    </div>
+    
+    <a href="/posts/all" class="btn btn-primary btn-lg mt-5 float-end">Done</a>
+</div>
+

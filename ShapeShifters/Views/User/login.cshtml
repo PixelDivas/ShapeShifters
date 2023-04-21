@@ -1,0 +1,56 @@
+@model LoginUser
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <link rel="stylesheet" href="~/css/styles.css" asp-append-version="true" />
+    <title>ShapeShifters</title>
+</head>
+<body class="bodylogin">
+
+     <div>
+        <img src="/images/logo.png" alt="logo"width="120" height="100"></a>
+    </div>
+    
+  
+   
+   
+    <main>
+        <div class="loginBox"> <img class="user" src="https://i.ibb.co/yVGxFPR/2.png" height="100px" width="100px">
+    <h3>Sign in</h3>
+    <form action="/login" method="post">
+      
+        <div class="inputBox">
+            <input type="text" name="LoginEmail" placeholder="LoginEmail" id=""> 
+             <span asp-validation-for="LoginEmail"></span>
+        </div>
+        <div class="inputBox"> 
+            <input type="password" name="LoginPassword" placeholder="LoginPassword" id="" > 
+            <span asp-validation-for="LoginPassword"></span>
+
+        </div>
+         <input type="submit" name="Sign-in" value="Sign-in">
+        
+    </form> 
+
+    </main>
+        
+   
+   
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+

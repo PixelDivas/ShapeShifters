@@ -1,0 +1,64 @@
+@model User
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <link rel="stylesheet" href="~/css/styles.css" asp-append-version="true" />
+    <title>ShapeShifters</title>
+</head>
+<body class="bodylogin">
+    <div>
+        <img src="/images/logo.png" alt="logo"width="120" height="100"></a>
+    </div>
+   
+  
+   
+   
+    <main>
+        <div class="loginBox"> 
+    <img class="user" src="https://i.ibb.co/yVGxFPR/2.png" height="100px" width="100px">
+    <h3>Sign Up Here</h3>
+    <form action="/register" method="post">
+        
+
+        
+        <div class="inputBox"> 
+            
+                <input type="text" name="UserName" placeholder="Username" id="" class="text-warning"> 
+                <span asp-validation-for="UserName"></span>
+            
+            
+        
+        </div>
+
+        <div class="inputBox"> 
+            <input type="text" name="Email" placeholder="Email" id="" class="text-warning "> 
+            <span asp-validation-for="Email"></span>
+        
+        </div>
+
+        <div class="inputBox"> 
+            <input type="password" name="Password" placeholder="Password" id="" class="text-warning"> 
+              <span asp-validation-for="Password">  </span>
+         </div>
+
+        <div class="inputBox"> 
+            
+                <input type="password" name="confirm" placeholder="Confirm Password" id="" class="text-warning">
+                <span asp-validation-for="Confirm"></span>
+            
+        </div> <br>
+        <input type="submit" name="Signup" value="Sign-up">
+        
+    </form> 
+    <a href="/login">Sign-in</a>
+</div>
+    </main>
+        
+   
+   
+
+</body>
+</html>
