@@ -22,7 +22,7 @@ public class UserController : Controller
     public IActionResult Index() {
         if(HttpContext.Session.GetInt32("uid") != null) 
         {
-            return RedirectToAction("ExerciseList", "exercises");
+            return RedirectToAction("ExerciseHome", "Exercise");
         } else {
             return View("Index");
         }
@@ -32,7 +32,7 @@ public class UserController : Controller
     public IActionResult Login() {
         if(HttpContext.Session.GetInt32("uid") != null) 
         {
-            return RedirectToAction("ExerciseList", "exercises");
+            return RedirectToAction("ExerciseHome", "Exercise");
         } else {
             return View("Login");
         }
@@ -58,11 +58,11 @@ public class UserController : Controller
          
             HttpContext.Session.SetInt32("uid", newUser.UserId);
             HttpContext.Session.SetString("name", newUser.UserName );
-            return RedirectToAction("ExerciseList", "exercises");
+            return RedirectToAction("ExerciseHome", "Exercise");
         }
     }
 
-  
+
     [HttpPost("/login")]
     public IActionResult Login(LoginUser getUser) {
         if(!ModelState.IsValid) {
@@ -96,7 +96,7 @@ public class UserController : Controller
                 {
                     HttpContext.Session.SetInt32("uid", userInDb.UserId);
                     HttpContext.Session.SetString("name", userInDb.UserName );
-                    return RedirectToAction("ExerciseList", "exercises");
+                    return RedirectToAction("ExerciseHome", "Exercise");
                 }
             }   
         }

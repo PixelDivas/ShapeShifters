@@ -22,6 +22,11 @@ public class ExerciseController : Controller
     }
     
     // Recommend routeName and FunctionName be the same
+
+    [HttpGet("/shapeshift")]
+    public IActionResult ExerciseHome(){
+        return View("ExerciseHome");
+    }
     
     [HttpGet("/exercises")]
     public IActionResult ExerciseList() {

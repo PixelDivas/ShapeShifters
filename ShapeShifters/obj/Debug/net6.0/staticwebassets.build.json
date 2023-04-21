@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "D+4PnZMWJqoO+4k8UOgcYCPViX4lnv4hZ/bH0SGesBY=",
+  "Hash": "6K903tP9mXO86j8cVKMtbWBzo/3JD9lZ2BgUAQPFnfc=",
   "Source": "ShapeShifters",
   "BasePath": "_content/ShapeShifters",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/exercise.css"
+    },
+    {
+      "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/css/index.css",
+      "SourceId": "ShapeShifters",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/",
+      "BasePath": "_content/ShapeShifters",
+      "RelativePath": "css/index.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/index.css"
     },
     {
       "Identity": "/Users/wosassociate/Documents/ShapeShifters/ShapeShifters/wwwroot/css/site.css",
