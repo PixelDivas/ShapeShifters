@@ -2,6 +2,7 @@ using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using ShapeShifters.Models;
 using Microsoft.AspNetCore.Mvc.Filters;
+using static ShapeShifters.Controllers.UserController;//help with sessioncheck import the user controller to be able to use thne session
 using Microsoft.EntityFrameworkCore;
 
 namespace ShapeShifters.Controllers;
@@ -22,6 +23,7 @@ public class ExerciseController : Controller
     }
     
     // Recommend routeName and FunctionName be the same
+   [SessionCheck]
 
     [HttpGet("/shapeshift")]
     public IActionResult ExerciseHome(){
@@ -32,12 +34,13 @@ public class ExerciseController : Controller
     public IActionResult ExerciseList() {
         return View("ExerciseList");
     }
-
+     
     [HttpGet("/exercises/{item}")]
     public IActionResult BodyPart() {
         return View("ExerciseByBodyPart");
     }
 
+     
     [HttpGet("/exercises/{item}/{id:int}")]
     public IActionResult OneExercise() {
         return View("OneExercise");

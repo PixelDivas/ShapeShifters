@@ -9,9 +9,10 @@
     <title>ShapeShifters</title>
 </head>
 <body class="bodylogin">
-    <header>
-      <h1 class="text-center">Your body’s Shape with Us </h1>
-    </header>
+    <div>
+        <img src="/images/logo.png" alt="logo"width="120" height="100"></a>
+    </div>
+   
   
    
    
@@ -24,26 +25,31 @@
 
         
         <div class="inputBox"> 
-            <input type="text" name="UserName" placeholder="Username" id=""> 
-            <span asp-validation-for="UserName"></span>
+            
+                <input type="text" name="UserName" placeholder="Username" id="" class="text-warning"> 
+                <span asp-validation-for="UserName"></span>
+            
+            
         
         </div>
 
         <div class="inputBox"> 
-            <input type="text" name="Email" placeholder="Email" id=""> 
+            <input type="text" name="Email" placeholder="Email" id="" class="text-warning "> 
             <span asp-validation-for="Email"></span>
         
         </div>
 
         <div class="inputBox"> 
-            <input type="password" name="Password" placeholder="Password" id=""> 
+            <input type="password" name="Password" placeholder="Password" id="" class="text-warning"> 
               <span asp-validation-for="Password">  </span>
          </div>
 
         <div class="inputBox"> 
-            <input type="password" name="confirm" placeholder="Confirm Password" id="" > 
-            <span asp-validation-for="Confirm"></span>
-        </div> 
+            
+                <input type="password" name="confirm" placeholder="Confirm Password" id="" class="text-warning">
+                <span asp-validation-for="Confirm"></span>
+            
+        </div> <br>
         <input type="submit" name="Signup" value="Sign-up">
         
     </form> 

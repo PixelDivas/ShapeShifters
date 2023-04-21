@@ -4,6 +4,7 @@ using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using ShapeShifters.Models;
 using Microsoft.AspNetCore.Identity;//this help hash the password in the database
+using Microsoft.AspNetCore.Mvc.Filters;
 
 namespace ShapeShifters.Controllers;
 
@@ -14,6 +15,11 @@ public class UserController : Controller
     public UserController(MyContext context)
     {
         db = context; 
+    }
+    private int? uid {
+        get {
+            return HttpContext.Session.GetInt32("uid");
+        }
     }
     
     
@@ -43,8 +49,18 @@ public class UserController : Controller
     [HttpPost("/register")]
     public IActionResult Register(User newUser)
     {
-          
-         if(!ModelState.IsValid) { return View("Index");}
+          //Make the email unique , you cannot register with the same email
+        if (ModelState.IsValid)
+        {
+            if (db.Users.Any(User => User.Email == newUser.Email))
+            {
+                ModelState.AddModelError("Email", "is taken");
+            }
+        }
+        if (ModelState.IsValid == false)
+        {
+            return View("Index");
+        }
            
                
          else 
@@ -112,7 +128,21 @@ public class UserController : Controller
 
     
 
-
+   public class SessionCheckAttribute : ActionFilterAttribute
+    {
+        public override void OnActionExecuting(ActionExecutingContext context)
+        {
+            // Find the session, but remember it may be null so we need int?
+            int? userId = context.HttpContext.Session.GetInt32("uid");
+            
+            if (userId == null)
+            {
+                
+               
+                context.Result = new RedirectToActionResult("Login", "User", null);
+            }
+        }
+    }
 
 
 
