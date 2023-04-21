@@ -26,24 +26,26 @@
                     </div>
                     } }
                 </div>
-                <button class="carousel-control-prev " type="button"
-                    data-bs-target="#carousel_@post.PostId"
-                    data-bs-slide="prev">
-                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                    <span class="visually-hidden">Previous</span>
-                </button>
-                <button class="carousel-control-next" type="button"
-                    data-bs-target="#carousel_@post.PostId"
-                    data-bs-slide="next">
-                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                    <span class="visually-hidden">Next</span>
-                </button>
+                @if(post.FileUploadList.Count > 1){
+                    <button class="carousel-control-prev " type="button"
+                        data-bs-target="#carousel_@post.PostId"
+                        data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button"
+                        data-bs-target="#carousel_@post.PostId"
+                        data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                    </button>
+                }
             </div>
             @* Card body starts *@
             <div class="card-body d-flex flex-column justify-content-end">
                 <h5 class="card-title fs-4 fw-bold">@post.Title</h5>
                 <p class="card-text">@post.PostContent</p>
-                <p class="fst-italic">
+                <p class="fst-italic username">
                     Posted by: @post.MessageAuthor.UserName
                 </p>
                 @{string modalId = "modal" + post.PostId;} @* modal trigger *@
@@ -127,7 +129,7 @@
                                                                         class="small
                                                                         mb-0
                                                                         ms-2
-                                                                        fst-italic">
+                                                                        fst-italic username">
                                                                         -
                                                                         @comment.CommentAuthor.UserName
                                                                     </p>

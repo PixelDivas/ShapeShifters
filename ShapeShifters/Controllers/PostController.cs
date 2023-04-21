@@ -1,6 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using ShapeShifters.Models;
+using Microsoft.AspNetCore.Mvc.Filters;
+using static ShapeShifters.Controllers.UserController;
 
 namespace ShapeShifters.Controllers;
 
